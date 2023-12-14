@@ -23,8 +23,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhijit11&icon=6&color=1)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=abhijit11&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</a>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
