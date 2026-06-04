@@ -22,7 +22,7 @@
 
 ---
 
-## 🛰️ SYSTEM LOG // CONNECTION ESTABLISHED
+## 🛰️ SYSTEM LOG // CONNECTION ESTABLISHED 
 
 <div align="left">
 <samp>
