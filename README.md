@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0b192c,80:00f2fe,100:001524&text=ABHIJIT%20RAJPUT&animation=fadeIn&fontColor=ffffff&fontSize=70&height=240&fontAlignY=45" width="100%"/>
 
-  <br/>
+<br/>
 
 <p align="center">
     <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00F2FE?style=for-the-badge&logo=statuspage&logoColor=00F2FE&labelColor=000000" />
