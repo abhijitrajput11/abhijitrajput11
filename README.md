@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠️ System Core Architecture (About Me)
+## 🛠️ System Core Architecture (About Me) 
 
 ```json
 {
